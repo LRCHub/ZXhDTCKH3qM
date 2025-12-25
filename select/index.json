@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "もうひとつの土曜日 (WE ARE STILL ON THE ROAD.)",
+  "base_artist": "浜田省吾",
+  "createdAt": "2025-12-25T04:52:21.475437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もうひとつの土曜日",
+      "artist": "浜田省吾",
+      "has_synced": true,
+      "path": "select/01_もうひとつの土曜日_浜田省吾.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もうひとつの土曜日",
+      "artist": "Shogo Hamada",
+      "has_synced": true,
+      "path": "select/02_もうひとつの土曜日_Shogo_Hamada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もうひとつの土曜日(live / 2011)",
+      "artist": "Shogo Hamada",
+      "has_synced": false,
+      "path": "select/03_もうひとつの土曜日(live___2011)_Shogo_Hamada.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もうひとつの土曜日",
+      "artist": "浜田 省吾",
+      "has_synced": false,
+      "path": "select/pl_01_もうひとつの土曜日_浜田_省吾.txt"
+    }
+  ]
+}
